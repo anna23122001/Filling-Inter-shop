@@ -1,0 +1,30 @@
+.active {
+    color: red
+}
+
+.container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.header {
+    margin: 10px auto;
+}
+
+.selected {
+    color: teal;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 20px;
+    font-size: 30px;
+    list-style: none;
+}
