@@ -1,0 +1,39 @@
+{
+ "movies": [
+    {
+        "title": "The Shawshank Redemption",
+        "stars": "Tim Robbins, Andy Dufresne, Morgan Freeman",
+        "director": "Stiven Spilberg",
+        "studio": "Castle Rock Entertainment",
+        "id": 1
+    },
+    {
+        "title": "The Godfather",
+        "stars": "Marlon Brando, Don Vito Corleone, Al Pacino",
+        "director": "Peter Jackson",
+        "studio": "Paramount Pictures, The Coppola Company" ,
+        "id": 2
+    },
+    {
+        "title": "The Godfather: Part II",
+        "stars": "Marlon Brando, Don Vito Corleone, Al Pacino",
+        "director": "Stiven Spilberg",
+        "studio": "Paramount Pictures, The Coppola Company" ,
+        "id": 3
+    },
+    {
+        "title": "Pulp Fiction",
+        "stars": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+        "director": "Burr Steers",
+        "studio": "Disney",
+        "id": 4
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "stars": "Clint Eastwood, Blondie. Eli Wallach, Tuco Ramirez, Lee Van Cleef",
+        "director": "Stiven Spilberg",
+        "studio": "London Orchestra",
+        "id": 5
+    }
+  ]
+}
